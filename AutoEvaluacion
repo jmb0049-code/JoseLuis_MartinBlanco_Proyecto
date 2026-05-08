@@ -1,0 +1,14 @@
+1. ¿Qué es lo que más te ha costado realizar?
+Lo más difícil fue conseguir que la lógica de colisión del juego funcionara correctamente al cargar la página. 
+Al principio, el juego se reiniciaba solo porque detectaba un choque antes de que la espada empezara a moverse.
+Tuve que investigar cómo poner un retraso para que el navegador tuviera tiempo de renderizar todo antes de empezar a vigilar el choque.
+
+2. ¿Has añadido alguna funcionalidad extra (Bonus)?
+Sí he añadido varias:
+En el Proyecto 1: He personalizado los colores del tablero para que no sea solo blanco y negro, dándole un aspecto más profesional.
+En el Proyecto 2: Añadí un marcador de puntos que sube cuanto más tiempo sobrevives y un sistema de Game Over que avisa al usuario de su puntuación final antes de reiniciar.
+
+
+3.¿Funciona correctamente en todos los navegadores?
+Sí, el proyecto ha sido desarrollado utilizando estándares web modernos (HTML5, CSS3 y JavaScript) que son compatibles con todos los 
+navegadores actuales (Chrome, Firefox, Edge y Safari).
