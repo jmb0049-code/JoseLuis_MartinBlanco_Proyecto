@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #4869d6;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+}
+
+#tablero {
+    display: grid;
+    /* Creamos una cuadrícula de 8x8 */
+    grid-template-columns: repeat(8, 60px);
+    grid-template-rows: repeat(8, 60px);
+    border: 5px solid #ffffff;
+}
+
+.casilla {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
